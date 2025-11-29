@@ -45,6 +45,7 @@ The Wiener-Khinchin theorem states that the power spectral density of a wide sen
 
 # OUTPUT:
 <img width="1895" height="992" alt="Screenshot 2025-11-28 220436" src="https://github.com/user-attachments/assets/4bbbefd0-14a9-4a92-af62-12d6f8fa044b" />
+![WhatsApp Image 2025-11-29 at 15 43 34_e9410646](https://github.com/user-attachments/assets/cdcf4c66-47b1-42c9-a311-b9ca9ca5361d)
 
 
 # RESULT:
